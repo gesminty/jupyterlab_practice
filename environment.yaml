@@ -1,0 +1,5 @@
+name: assgn7env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Tom\miniconda3\envs\assgn7env
